@@ -85,8 +85,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Front-end reposotrie <a name="live-demo"></a>
 
-> no live demo yet!
-
 - [front-end reposotrie](https://github.com/ChaabaneAnas/hello_react-front-end/tree/dev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p
