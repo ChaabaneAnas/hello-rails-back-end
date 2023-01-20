@@ -91,9 +91,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> no live demo yet!
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Coming soon](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
